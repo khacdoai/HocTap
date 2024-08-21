@@ -1,7 +1,7 @@
-Họ và Tên: Lê Quang Nghĩa
+Họ và Tên: Võ Khắc Đoài
 Lớp: 21SE5	
-Lớp học phần : Phát triển ứng dụng di động đa nền tảng (4)
-Mã SV: 21IT362
+Lớp học phần : Phát triển ứng dụng di động đa nền tảng (5)
+Mã SV: 21IT335
 LAB 1: I AM RICH
 1.	I Am Rich Structure
 2.	Creating a New Flutter Project from Scratch: 
